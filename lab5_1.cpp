@@ -21,5 +21,4 @@ int main(){
     cout << "#Even numbers = "<<i << endl;
     cout << "#Odd numbers = "<<j;
     return 0;
-
 }
